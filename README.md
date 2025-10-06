@@ -12,3 +12,4 @@ A single-file, comic-panel landing page to showcase or sell your friendly neighb
    ```bash
    git clone https://github.com/muzahidulislamabir66731011/Spidey-Storefront.git
    ```
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Spidey--Storefront-red?style=for-the-badge&logo=github)](https://muzahidulislamabir66731011.github.io/Spidey-Storefront-01/)
